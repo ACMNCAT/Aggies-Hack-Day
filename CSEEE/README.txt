@@ -1,1 +1,1 @@
-# This  folder contains the CSEEE Project
+This  folder contains the CSEEE Project
