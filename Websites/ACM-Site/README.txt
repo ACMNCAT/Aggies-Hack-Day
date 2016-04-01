@@ -1,1 +1,1 @@
-This is the code for the NCAT Chapter of ACM's website: http://csacm.ncat.edu
+This is the code for the ACM website: http://csacm.ncat.edu
